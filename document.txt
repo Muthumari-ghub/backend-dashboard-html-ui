@@ -1,0 +1,7 @@
+git init
+git status
+git add README.md
+git status
+git commit -m "updated readme file, added html project"
+git status
+git push -u origin main
